@@ -16,5 +16,5 @@ class Dog(Base):
     mother = Column(Integer)
     father = Column(Integer)
 
-
-engine = create_engine('postgresql+psycopg2://postgres:kvinta10@localhost/dy_data')
+db_url = 'postgresql+psycopg2://user:password@host/database_name'
+engine = create_engine(db_url)
