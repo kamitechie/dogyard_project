@@ -21,7 +21,7 @@ class Dog(Base):
 class Position(Base):
     __tablename__ = "positions"
     id = Column(Integer, primary_key=True)
-    positon = Column(String)
+    position = Column(String)
 
 
 @dataclass
