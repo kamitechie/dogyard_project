@@ -25,3 +25,8 @@ Creating classes:
 1. In file dogyard_models.py change db_url variable with your user, password, host and data_name.
 2. Run file dogyard_models.py
 3. Run CRUD_data.py for querying data from your database.
+
+## 3. Creating HTML and CSS phase
+
+ 1. Run CRUD_data.py for querying data from your database and creating HTML file index.html.
+
