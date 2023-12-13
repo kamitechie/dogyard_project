@@ -1,4 +1,4 @@
-# Dogyard project
+# Dogyard project DataBase
 
 ## 1. Database phase
 
